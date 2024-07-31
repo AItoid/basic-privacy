@@ -16,9 +16,16 @@ A compiled list of simple things you can do to improve your digital privacy &amp
      - [Mullvad Browser](https://mullvad.net/en/browser) for privacy
      - [Tor Browser](https://mullvad.net/en/browser) for anonymity
 
-- Use Startpage / DuckDuckGo search engine.
+- Use a secured search-engine.
+     - [DuckDuckGo](https://duckduckgo.com/) for privacy
+     - [Startpage](https://www.startpage.com/) for anonymity
+
 - Use a trustworthy VPN.
-- Use DoH (Domain Over HTTPS) when applicable.
+     - [NordVPN](https://nordvpn.com/) for convenience
+     - [Mullvad](https://mullvad.net/en/vpn) for anonymity
+     - [Windscribe](https://windscribe.com/) for privacy
+
+- Use DoH (Domain Over HTTPS) DNS when not using a VPN.
 - Use open-source software only.
 - Use mac-address spoofing.
 - Use a file-shredder for delicate files.
