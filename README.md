@@ -38,7 +38,7 @@ A compiled list of simple things you can do to improve your digital privacy &amp
      - [Monero](https://www.getmonero.org/) for anonymous transactions
      - [Bitcoin](https://bitcoin.org/en/) for public transactions
 
-- Use disk encryption on Linux.
+- Use disk encryption.
      - [LUKS](https://gitlab.com/cryptsetup/cryptsetup/blob/master/README.md) for kernel encryption that's decrypted with a password on boot
      - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) for cross-platform support of drive encryption
 
