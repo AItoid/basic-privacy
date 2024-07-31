@@ -3,12 +3,12 @@ A compiled list of simple things you can do to improve your digital privacy &amp
 
 ### List
 - Use a secured operating-system.
-     - Linux Mint for convenience
-     - QubesOS for security
-     - TailsOS for privacy
-     - Whonix for anonymity
+     - [Linux Mint](https://linuxmint.com/) for convenience
+     - [Qubes](https://www.qubes-os.org) for security
+     - [Tails](https://tails.net/) for privacy
+     - [Whonix](https://www.whonix.org/) for anonymity
 - Use a secured smartphone operating-system.
-     - GrapheneOS for privacy
+     - [GrapheneOS](https://grapheneos.org/) for privacy
 
 - Use Tor Browser / Mullvad Browser.
 - Use Startpage / DuckDuckGo search engine.
