@@ -47,7 +47,7 @@ A compiled list of simple things you can do to improve your digital privacy &amp
      - [Shred](https://www.gnu.org/software/coreutils/manual/html_node/shred-invocation.html#shred-invocation) for shredding files on Linux
 
 - Use PGP for encrypting messages.
-     - [Kleopatra](https://www.openpgp.org/software/kleopatra/) for easy-to-use certificate creation, importing, and encrypting / decrypting content based on clipboard data
+     - [Kleopatra](https://www.openpgp.org/software/kleopatra/) for easy-to-use certificate creation / importing, and encrypting / decrypting data
 
 - Use GPG for encrypting messages.
      - [GnuPG](https://gnupg.org/download/index.html) for encrypting linux files in the terminal
