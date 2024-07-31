@@ -10,7 +10,12 @@ A compiled list of simple things you can do to improve your digital privacy &amp
 - Use a secured smartphone operating-system.
      - [GrapheneOS](https://grapheneos.org/) for privacy
 
-- Use Tor Browser / Mullvad Browser.
+- Use a secured browser.
+     - [Brave](https://brave.com/) for convenience
+     - [LibreWolf](https://librewolf.net/) for privacy and convenience
+     - [Mullvad Browser](https://mullvad.net/en/browser) for privacy
+     - [Tor Browser](https://mullvad.net/en/browser) for anonymity
+
 - Use Startpage / DuckDuckGo search engine.
 - Use a trustworthy VPN.
 - Use DoH (Domain Over HTTPS) when applicable.
