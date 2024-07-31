@@ -34,8 +34,26 @@ A compiled list of simple things you can do to improve your digital privacy &amp
 - Use a file-shredder for delicate files.
 - Use PGP for encrypting messages.
 - Use GPG for encrypting messages.
+- Use cryptocurrency for payments
+     - [Monero](https://www.getmonero.org/) for anonymous transactions
+     - [Bitcoin](https://bitcoin.org/en/) for public transactions
+
 - Use disk encryption on Linux.
+     - [LUKS](https://gitlab.com/cryptsetup/cryptsetup/blob/master/README.md) for kernel encryption that's decrypted with a password on boot
+     - [VeraCrypt](https://www.veracrypt.fr/en/Downloads.html) for cross-platform support of drive encryption
+
 - Use disposable email-addresses.
-- Use a private & secure email provider such as ProtonMail.
-- Use an encrypted offline password manager such as KeePass2.
-- Use pass-phrases instead of basic password.
+     - [MailPro](https://smailpro.com/temporary-email) for anonymous temporary gmail addresses
+     - [MailTM](https://mail.tm/en) for anonymous temporary or specific addresses
+
+- Use a secured email provider.
+     - [ProtonMail](https://proton.me/mail) for private and secure emailing
+     - [Tuta](https://tuta.com/) for private and secure emailing
+     
+- Use a secured password manager.
+     - [KeePass](https://keepass.info/download.html) for private and encrypted local password storage
+     - [Bitwarden](https://bitwarden.com/download/) for encrypted cloud password storage
+
+- Use secured passwords.
+     - [Proton Password Generator](https://proton.me/pass/password-generator) for sophisticated password and pass-phrase generation
+     - [LastPass](https://www.lastpass.com/features/password-generator) for sophisticated password generation
