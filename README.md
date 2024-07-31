@@ -2,7 +2,7 @@
 A compiled list of simple things you can do to improve your digital privacy &amp; security.
 
 ### List
-- 1. Use Linux for computer OS.
+- Use Linux for computer OS.
      - test
      - test2
 - Use GrapheneOS for phone OS.
