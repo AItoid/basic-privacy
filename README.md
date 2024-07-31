@@ -19,6 +19,13 @@ A compiled list of simple things you can do to improve your digital privacy &amp
 - Use a secured search-engine.
      - [DuckDuckGo](https://duckduckgo.com/) for privacy
      - [Startpage](https://www.startpage.com/) for anonymity
+ 
+- Use browser extensions.
+     - [uBlock Origin](https://ublockorigin.com/) for blocking all types of advertisements
+     - [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) for blocking invislbe trackers
+     - [User-Agent Switcher and Manager](https://addons.mozilla.org/en-US/firefox/addon/user-agent-string-switcher/) for spoofing your browser and operating-system
+     - [DuckDuckGo Privacy Essential](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search) for blocking trackers, cookie protection, and HTTPS upgrades
+     - [NoScript Security Suite](https://addons.mozilla.org/en-US/firefox/addon/noscript/) for protection against web security exploits
 
 - Use a trustworthy VPN.
      - [NordVPN](https://nordvpn.com/) for convenience
