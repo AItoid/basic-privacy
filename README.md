@@ -2,7 +2,9 @@
 A compiled list of simple things you can do to improve your digital privacy &amp; security.
 
 ### List
-- Use Linux for computer OS.
+- 1. Use Linux for computer OS.
+     - test
+     - test2
 - Use GrapheneOS for phone OS.
 - Use Tor Browser / Mullvad Browser.
 - Use Startpage / DuckDuckGo search engine.
