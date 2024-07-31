@@ -26,7 +26,10 @@ A compiled list of simple things you can do to improve your digital privacy &amp
      - [Windscribe](https://windscribe.com/) for privacy
 
 - Use DoH (Domain Over HTTPS) DNS when not using a VPN.
-- Use open-source software only.
+     - [Mullvad](https://mullvad.net/en/help/dns-over-https-and-dns-over-tls)
+     - [Cloudflare](https://developers.cloudflare.com/1.1.1.1/ip-addresses/)
+
+- Use open-source or trusted software only.
 - Use mac-address spoofing.
 - Use a file-shredder for delicate files.
 - Use PGP for encrypting messages.
