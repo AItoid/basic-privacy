@@ -2,10 +2,14 @@
 A compiled list of simple things you can do to improve your digital privacy &amp; security.
 
 ### List
-- Use Linux for computer OS.
-     - test
-     - test2
-- Use GrapheneOS for phone OS.
+- Use a secured operating-system.
+     - Linux Mint for convenience
+     - QubesOS for security
+     - TailsOS for privacy
+     - Whonix for anonymity
+- Use a secured smartphone operating-system.
+     - GrapheneOS for privacy
+
 - Use Tor Browser / Mullvad Browser.
 - Use Startpage / DuckDuckGo search engine.
 - Use a trustworthy VPN.
